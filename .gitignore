@@ -1,0 +1,15 @@
+# Dados sensíveis
+data/raw/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
